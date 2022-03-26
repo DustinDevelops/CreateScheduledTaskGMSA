@@ -1,2 +1,2 @@
 # CreateScheduledTaskGMSA
-Will create Scheduled Task that runs as GMSA. This is currently not allowed in the GUI.
+Will create Scheduled Task that runs as GMSA. This is currently not allowed in the GUI. Need to make sure you create the GMSA properly first.
